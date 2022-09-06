@@ -1,0 +1,20 @@
+.button{
+    background:#f84464 !important;
+    border: none !important;
+    color: white;
+}
+
+.button:hover{
+    background: #df2e4f !important;
+}
+
+.register-text{
+    font-size: .9rem;
+    color:#f84464;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.register-text:hover{
+    color:#df2e4f !important;
+}

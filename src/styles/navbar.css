@@ -1,0 +1,41 @@
+.nav-container{
+    background: rgb(51, 53, 69);
+    padding: 10px 110px;
+    position: sticky;
+    box-shadow: 2px 1px #bdbdbd;
+}
+
+.no-dec{
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+
+span{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.book-show{
+    background: rgb(255, 255, 255);
+    border: none;
+    padding:5px 15px;
+    border-radius: 5px;
+    color: #df2e4f
+}
+
+
+
+.nav-item{
+    font-weight: 500;
+    font-size: .9rem;
+    color:white;
+}
+
+.nav-item :hover{
+    color: rgb(248, 68, 100);
+}
+
+
+
+
